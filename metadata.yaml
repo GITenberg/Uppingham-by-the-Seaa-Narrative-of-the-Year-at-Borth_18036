@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7763'
     url: http://www.gutenberg.org/2009/agents/7763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18036#Uppingham-by-the-Seaa-Narrative-of-the-Year-at-Borth
 gutenberg_issued: '2006-03-22'
 gutenberg_type: Text
 identifiers:
