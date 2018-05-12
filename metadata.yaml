@@ -1,0 +1,26 @@
+_repo: Uppingham-by-the-Seaa-Narrative-of-the-Year-at-Borth_18036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Skrine, John Huntley
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '7763'
+    url: http://www.gutenberg.org/2009/agents/7763
+description: ''
+gutenberg_issued: '2006-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LF'
+- !lcsh 'Uppingham School'
+title: 'Uppingham by the Sea: A Narrative of the Year at Borth'
+url: http://www.gutenberg.org/ebooks/18036
